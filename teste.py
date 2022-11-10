@@ -1,0 +1,6 @@
+nome = 'Bruno'
+idade = 17
+
+print(f'Eu sou o {nome} e tenho {idade} anos')
+
+idiomas = ['Inglês', 'Espanhol', 'Português', 'Alemão']
